@@ -1,0 +1,38 @@
+.Progress {
+    display: flex;
+    align-items: center;
+}
+.ProgressWrapper {
+    margin-left: 3px;
+}
+.Score {
+    position: relative;
+}
+.ScoreValue {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 28px;
+    transform: translate(-50%,-60%);
+    color: #fff;
+}
+.ProgressBar {
+    display: flex;
+    align-items: center;
+}
+.ProgressValue {
+    font-size: 18px;
+    margin-left: 9px;
+}
+.Icon {
+    margin-left:6px ;
+}
+.Shield {
+    color: #6DC2CA;
+}
+.Energy {
+    color: #F3D742;
+}
+.Heart {
+    color: #FF6363;
+}

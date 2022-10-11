@@ -1,0 +1,18 @@
+.LevelUpButton {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+
+    cursor: pointer;
+
+    transition: transform 0.5s cubic-bezier(.17,.67,.46,1.59);
+}
+
+.MoveOn {
+    transform: translateY(0);
+}
+
+.MoveOut {
+    transform: translateY(-200%);
+} 

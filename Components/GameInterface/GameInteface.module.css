@@ -1,0 +1,22 @@
+.GameInterface {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #05141C;
+    padding: 16px;
+    display: flex;
+}
+.Left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Center {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 100%;
+}

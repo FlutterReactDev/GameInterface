@@ -1,0 +1,135 @@
+.Skills {
+  display: flex;
+  transition: all .3s;
+}
+.SkillsItem {
+  width: 169px;
+  height: 80px;
+  margin-right: 40px;
+  padding-top: 6px;
+  position: relative;
+  transition: all .3s;
+}
+
+.BlueBackground {
+  background-image: url(/icons/Skills/BlueBackground.svg);
+  background-repeat: no-repeat;
+
+}
+.YellowBackground {
+  background-image: url(/icons/Skills/YellowBackground.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.RedBackground {
+  background-image: url(/icons/Skills/RedBackground.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.GreenBackground {
+  background-image: url(/icons/Skills/GreenBackground.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+
+.SkillName {
+  text-align: center;
+  font-size: 16px;
+  line-height: 72.7%;
+}
+
+.Icon svg {
+  width: 34px;
+  height: 28px;
+  text-align: center;
+}
+
+.Icon {
+  text-align: center;
+  margin-top: 12px;
+}
+.Level {
+  position: absolute;
+  color: #fff;
+  left: 18px;
+  bottom: 5px;
+}
+
+.Number {
+  position: absolute;
+  color: #102b40;
+  right: 17px;
+  bottom: 3px;
+}
+.Number svg {
+  width: 16px;
+  height: 16px;
+}
+.Number span {
+  position: absolute;
+  font-size: 15px;
+  line-height: 14px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.BlueBackground .SkillName {
+    color: #7eeaf5;
+  }
+.BlueBackground .Number svg {
+    fill: #7EEAF5;
+}
+.BlueBackground .Level span {
+    color: #7EEAF5;
+}
+.YellowBackground .SkillName  {
+    color: #F3D742;
+}
+.YellowBackground .Number svg{
+    fill: #F3D742;
+}
+.YellowBackground .Level span {
+    color: #F3D742;
+}
+
+.RedBackground .Icon svg{
+    width: 53px;
+    height: 37px;
+}
+.RedBackground .SkillName  {
+    color: #FF5151
+}
+.RedBackground .Number svg{
+    fill: #FF5151;
+}
+.RedBackground .Level span {
+    color: #FF5151;
+}
+
+.GreenBackground .SkillName  {
+    color: #9DF57E
+}
+.GreenBackground .Number svg{
+    fill: #9DF57E;
+}
+.GreenBackground .Level span {
+    color: #9DF57E;
+}
+
+
+.Active {
+    transform: scale(1.3);
+}
+
+
+.MoveOn {
+    transform: translateY(0);
+}
+
+.MoveOut {
+    transform: translateY(200%);
+}

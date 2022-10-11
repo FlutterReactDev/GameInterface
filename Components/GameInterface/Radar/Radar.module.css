@@ -1,0 +1,17 @@
+.Radar {
+    background-image:url(/icons/Radar.svg);
+    background-repeat: no-repeat;
+    width: 237px;
+    height: 237px;
+    position: relative;
+}
+
+.Player {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.RadarItem {
+    position: absolute;
+}

@@ -1,0 +1,34 @@
+<svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_7_4941)">
+<path d="M20.9444 3.69445V0.333336H7.49998V3.69445H4.13887V7.05556H0.777756V20.5H4.13887V23.8611H7.49998V27.2222H20.9444V23.8611H24.3055V20.5H27.6666V7.05556H24.3055V3.69445H20.9444Z" fill="#011D2B"/>
+</g>
+<rect x="12.7554" y="18.1778" width="2.93333" height="1.46667" fill="#FF6363"/>
+<rect x="11.2886" y="16.7113" width="5.86667" height="1.46667" fill="#FF6363"/>
+<rect x="9.82246" y="15.2445" width="8.8" height="1.46667" fill="#FF6363"/>
+<rect x="8.35567" y="13.7777" width="11.7333" height="1.46667" fill="#FF6363"/>
+<rect x="6.88887" y="12.3113" width="14.6667" height="1.46667" fill="#FF6363"/>
+<rect x="6.88887" y="10.8445" width="14.6667" height="1.46667" fill="#FF6363"/>
+<rect x="8.35567" y="9.378" width="11.7333" height="1.46667" fill="#FF6363"/>
+<rect x="9.82246" y="7.9112" width="8.8" height="1.46667" fill="#FF6363"/>
+<rect x="12.7554" y="18.1778" width="2.93333" height="1.46667" fill="#F54343"/>
+<rect x="15.689" y="16.7113" width="1.46667" height="1.46667" fill="#F54343"/>
+<rect x="17.1558" y="15.2445" width="1.46667" height="1.46667" fill="#F54343"/>
+<rect x="18.6219" y="13.7777" width="1.46667" height="1.46667" fill="#F54343"/>
+<rect x="20.0887" y="12.3113" width="1.46667" height="1.46667" fill="#F54343"/>
+<rect x="18.6219" y="12.3113" width="1.46667" height="1.46667" fill="#FFF3F3"/>
+<rect x="18.6219" y="10.8445" width="1.46667" height="1.46667" fill="#FFF3F3"/>
+<rect x="17.1558" y="13.7777" width="1.46667" height="1.46667" fill="#FFF3F3"/>
+<rect x="15.689" y="15.2445" width="1.46667" height="1.46667" fill="#FFF3F3"/>
+<rect x="20.0887" y="10.8445" width="1.46667" height="1.46667" fill="#F54343"/>
+<defs>
+<filter id="filter0_d_7_4941" x="0.777756" y="0.333336" width="26.8889" height="27.8889" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7_4941"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7_4941" result="shape"/>
+</filter>
+</defs>
+</svg>
