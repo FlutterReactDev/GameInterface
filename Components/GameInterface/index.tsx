@@ -1,14 +1,14 @@
 import styles from "./GameInteface.module.css";
 import LevelUpButton from "./LevelUpButton";
 import ModalWindow from "./ModalWindow";
-import ProgressBar from "./ProgressBar";
+import HUD from "./HUD";
 import Radar from "./Radar";
 import Skills from "./Skills";
 function GameInterface() {
   return (
     <div className={styles.GameInterface}>
       <div className={styles.Left}>
-        <ProgressBar />
+        <HUD />
         <ModalWindow />
         <Radar />
       </div>
